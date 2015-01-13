@@ -1,0 +1,4 @@
+markdown: redcarpet
+baseurl: /salon-mona
+exlude: ['README.md']
+permalink: pretty
